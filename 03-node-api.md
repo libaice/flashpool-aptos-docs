@@ -12,7 +12,7 @@
 
 #### 2.Event 的查询
 
-查询某个账号在某个合约下的所以Event
+查询某个账号在某个合约下的所有Event
 
 >  https://fullnode.testnet.aptoslabs.com/v1/accounts/{address}/events/{event_handle}/{field_name}
 >
